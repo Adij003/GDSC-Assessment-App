@@ -1,0 +1,7 @@
+Hey students,
+This folder is for Poke-dex App submission.  For submission create a folder with your name (preferably) or roll number. In that folder there must be 2 folders:  1 for the app folder and other for the output folder. Output can be either screen recording of the emulator or screenshot.
+
+The directory tree should be like below: 
+<Name>
+|----  <App name>
+|----  <output folder >
